@@ -1,1 +1,1 @@
-# funky
+# Funkcprog beadandóm
